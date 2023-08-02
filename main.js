@@ -20,9 +20,9 @@ ScrollReveal({
     duration: 1600,
     delay: 400
 });
-ScrollReveal().reveal('.navbar,.aboutimg-box');
+ScrollReveal().reveal('.aboutimg-box');
 ScrollReveal().reveal('.details-box');
 ScrollReveal().reveal('.subHeading,  .heading, .scroll-down');
-ScrollReveal().reveal('.social-icons,.person-detail, .person-img, .service-box, .img-box, .text-box, .testi-container, .contact-container', { delay: 400, origin: 'bottom' });
+ScrollReveal().reveal('.social-icons,.person-detail, .person-img, .service-box, .img-box, .text-box, .testi-container, .contact-container', { delay: 400, origin: 'bottom'});
 
 
